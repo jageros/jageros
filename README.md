@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on Hawtech
 - 🌱 I’m currently learning Microservice
-- 👯 I’m looking to collaborate on Project Development
+- 👯 I’m looking to collaborate on Project
 - 🤔 I’m looking for help with kubernetes
 - 😄 Pronouns: Hello world
