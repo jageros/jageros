@@ -7,5 +7,3 @@
 - 👯 I’m looking to collaborate on Project Development
 - 🤔 I’m looking for help with kubernetes
 - 😄 Pronouns: Hello world
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jageros&layout=compact&theme=dark&hide_border=true">
