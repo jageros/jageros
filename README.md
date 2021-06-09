@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jaeros&show_icons=true&theme=radical&hide_border=true">
+
 ### Hi I'm jager. 👋
 
 - 🔭 I’m currently working on Hawtech
@@ -8,7 +10,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: Good Good Study， Day Day Up！
 - ⚡ Fun fact: many
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jageros&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jageros&show_icons=true&hide_border=true">
-
